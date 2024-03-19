@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <string> 
 using namespace std;
@@ -25,3 +26,21 @@ int main() {
 
 	}
 }
+=======
+#include<iostream>
+using namespace std;
+int main()
+{
+	string []str={"Abhishek"};
+	char [] vowel ={A,a,E,e,I,i,O,o,U,u};
+	for(int i=0;i<a.size;i++)
+	{
+		if(str[i]==vowel)
+		{
+			str[i] -=str[i];
+			
+		}
+		cout<<str;
+	}
+}
+>>>>>>> be63525 (First commit)

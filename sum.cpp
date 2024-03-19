@@ -9,5 +9,9 @@ int main()
 		sum+=n%10;
 		n=n/10;
 	}	
+<<<<<<< HEAD
 	cout<<"The sum of 3 digit is "<<sum;
+=======
+	cout<<sum;
+>>>>>>> be63525 (First commit)
 }
